@@ -11,10 +11,14 @@
             "id": "db4ef70df979d952",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -150,6 +154,9 @@
   },
   "active": "db4ef70df979d952",
   "lastOpenFiles": [
+    "未命名.md",
+    "线性代数/未命名.md",
+    "线性代数",
     "README.md",
     "test/你好.md",
     "/test/你好.md",
@@ -157,7 +164,6 @@
     "test/assets/你好/file-20251130010821869.jpg",
     "test/assets/你好",
     "test/assets",
-    "test",
-    "未命名.md"
+    "test"
   ]
 }
