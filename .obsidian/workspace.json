@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/未命名.md",
+                "file": "线性代数/行列式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "行列式"
             }
           }
         ]
@@ -74,11 +74,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "790c839e9efa3ccc",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线性代数/未命名.md",
+                "file": "线性代数/行列式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "行列式 的反向链接列表"
             }
           },
           {
@@ -113,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "线性代数/未命名.md",
+                "file": "线性代数/行列式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "行列式 的出链列表"
             }
           },
           {
@@ -142,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线性代数/未命名.md",
+                "file": "线性代数/行列式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "行列式 的大纲"
             }
           },
           {
@@ -182,10 +184,12 @@
   },
   "active": "b60a1708b2cdb7b5",
   "lastOpenFiles": [
+    "线性代数/assets/行列式/file-20251130150649185.png",
+    "线性代数/assets/行列式",
+    "线性代数/assets",
     "README.md",
-    "线性代数/未命名.md",
+    "线性代数/行列式.md",
     "线性代数/assets/未命名/file-20251130134039419.png",
-    "线性代数/assets/未命名",
-    "线性代数/assets"
+    "线性代数/assets/未命名"
   ]
 }
