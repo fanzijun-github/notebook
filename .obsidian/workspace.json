@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8818ee85b20e7022",
+        "id": "7372f91bb9447584",
         "type": "tabs",
         "children": [
           {
-            "id": "b60a1708b2cdb7b5",
+            "id": "af994de0f6665b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,13 +74,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "790c839e9efa3ccc",
@@ -182,13 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b60a1708b2cdb7b5",
+  "active": "af994de0f6665b0b",
   "lastOpenFiles": [
+    "线性代数/计算行列式的方法.md",
+    "线性代数/行列式.md",
+    "未命名.canvas",
     "线性代数/assets/行列式/file-20251130150649185.png",
     "线性代数/assets/行列式",
     "线性代数/assets",
     "README.md",
-    "线性代数/行列式.md",
     "线性代数/assets/未命名/file-20251130134039419.png",
     "线性代数/assets/未命名"
   ]
