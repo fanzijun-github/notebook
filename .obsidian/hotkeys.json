@@ -1,0 +1,10 @@
+{
+  "latex-matrices:open-matrix-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ]
+}
