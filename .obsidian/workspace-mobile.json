@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "9d0949585f7193d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "956dbd4fb3c2709d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7851b9e4e44368b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/矩阵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bcfd8e327470594",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44ee0a1a9c0058a2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "835aec997574cf4a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "0a9b5a1d46d71802",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "15ef8e5ada0676f9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dab31a77803932e9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "02c662ec76f75703",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "线性代数/行列式.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "7c2a4a1be90af253",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "线性代数/行列式.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "f74dca5c7af4384b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "线性代数/行列式.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7851b9e4e44368b0",
+  "lastOpenFiles": [
+    "线性代数/行列式.md",
+    "线性代数/矩阵.md",
+    "线性代数/assets/行列式/file-20251130150649185.png",
+    "/线性代数/行列式.md",
+    "/线性代数/assets/行列式/file-20251130150649185.png",
+    "线性代数/assets/行列式",
+    "线性代数/assets",
+    "/线性代数/assets/行列式",
+    "/线性代数/assets",
+    "/线性代数"
+  ]
+}
