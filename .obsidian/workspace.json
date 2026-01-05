@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机导论/重点整理.md",
+                "file": "C语言/C语言程序设计复习资料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重点整理"
+              "title": "C语言程序设计复习资料"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#浮点数（简单回顾）",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,10 +181,15 @@
       "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "3667b49a8bf4c0a7",
+  "active": "af994de0f6665b0b",
   "lastOpenFiles": [
-    "线性代数/行列式.md",
+    "C语言/C语言程序设计期末复习资料.md",
+    "C语言/C语言程序设计复习资料.md",
+    "计算机导论/重点（AI）.md",
+    "C语言",
+    "计算机导论/未命名",
     "计算机导论/重点整理.md",
+    "线性代数/行列式.md",
     "计算机导论",
     "README.md",
     "线性代数/矩阵.md",
