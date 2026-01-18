@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/C语言程序设计复习资料.md",
+                "file": "计算机导论/重点整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C语言程序设计复习资料"
+              "title": "重点整理"
             }
           }
         ]
@@ -183,12 +183,12 @@
   },
   "active": "af994de0f6665b0b",
   "lastOpenFiles": [
-    "C语言/C语言程序设计期末复习资料.md",
-    "C语言/C语言程序设计复习资料.md",
     "计算机导论/重点（AI）.md",
+    "计算机导论/重点整理.md",
+    "C语言/C语言程序设计复习资料.md",
+    "C语言/C语言程序设计期末复习资料.md",
     "C语言",
     "计算机导论/未命名",
-    "计算机导论/重点整理.md",
     "线性代数/行列式.md",
     "计算机导论",
     "README.md",
